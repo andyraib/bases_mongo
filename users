@@ -1,0 +1,541 @@
+{
+	"_id" : 1,
+	"name" : "sue",
+	"age" : 19,
+	"type" : 1,
+	"status" : "P",
+	"favorites" : {
+		"artist" : "Picasso",
+		"food" : "pizza"
+	},
+	"finished" : [
+		17,
+		3
+	],
+	"badges" : [
+		"blue",
+		"black"
+	],
+	"points" : [
+		{
+			"points" : 85,
+			"bonus" : 20
+		},
+		{
+			"points" : 85,
+			"bonus" : 10
+		}
+	]
+}
+
+{
+	"_id" : 2,
+	"name" : "bob",
+	"age" : 42,
+	"type" : 1,
+	"status" : "A",
+	"favorites" : {
+		"artist" : "Miro",
+		"food" : "meringue"
+	},
+	"finished" : [
+		11,
+		25
+	],
+	"badges" : [
+		"green"
+	],
+	"points" : [
+		{
+			"points" : 85,
+			"bonus" : 20
+		},
+		{
+			"points" : 64,
+			"bonus" : 12
+		}
+	]
+}
+
+
+{
+	"_id" : 3,
+	"name" : "ahn",
+	"age" : 22,
+	"type" : 2,
+	"status" : "A",
+	"favorites" : {
+		"artist" : "Cassatt",
+		"food" : "cake"
+	},
+	"finished" : [
+		6
+	],
+	"badges" : [
+		"blue",
+		"red"
+	],
+	"points" : [
+		{
+			"points" : 81,
+			"bonus" : 8
+		},
+		{
+			"points" : 55,
+			"bonus" : 20
+		}
+	]
+}
+{
+	"_id" : 4,
+	"name" : "xi",
+	"age" : 34,
+	"type" : 2,
+	"status" : "D",
+	"favorites" : {
+		"artist" : "Chagall",
+		"food" : "chocolate"
+	},
+	"finished" : [
+		5,
+		11
+	],
+	"badges" : [
+		"red",
+		"black"
+	],
+	"points" : [
+		{
+			"points" : 53,
+			"bonus" : 15
+		},
+		{
+			"points" : 51,
+			"bonus" : 15
+		}
+	]
+}
+{
+	"_id" : 5,
+	"name" : "xyz",
+	"age" : 23,
+	"type" : 2,
+	"status" : "D",
+	"favorites" : {
+		"artist" : "Noguchi",
+		"food" : "nougat"
+	},
+	"finished" : [
+		14,
+		6
+	],
+	"badges" : [
+		"orange"
+	],
+	"points" : [
+		{
+			"points" : 71,
+			"bonus" : 20
+		}
+	]
+}
+{
+	"_id" : 6,
+	"name" : "abc",
+	"age" : 43,
+	"type" : 1,
+	"status" : "A",
+	"favorites" : {
+		"food" : "pizza",
+		"artist" : "Picasso"
+	},
+	"finished" : [
+		18,
+		12
+	],
+	"badges" : [
+		"black",
+		"blue"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 7
+		}
+	]
+}
+{
+	"_id" : 7,
+	"name" : "les",
+	"age" : 23,
+	"type" : 1,
+	"status" : "P",
+	"favorites" : {
+		"artist" : "Van Gogh",
+		"food" : "hotdogs"
+	},
+	"finished" : [
+		24,
+		9
+	],
+	"badges" : [
+		"red",
+		"black"
+	],
+	"points" : [
+		{
+			"points" : 85,
+			"bonus" : 20
+		},
+		{
+			"points" : 85,
+			"bonus" : 10
+		},
+		{
+			"points" : 95,
+			"bonus" : 12
+		}
+	]
+}
+{
+	"_id" : 8,
+	"name" : "rob",
+	"age" : 40,
+	"type" : 1,
+	"status" : "A",
+	"favorites" : {
+		"artist" : "Riso",
+		"food" : "sushi"
+	},
+	"finished" : [
+		11,
+		25
+	],
+	"badges" : [
+		"green",
+		"green"
+	],
+	"points" : [
+		{
+			"points" : 85,
+			"bonus" : 20
+		},
+		{
+			"points" : 64,
+			"bonus" : 12
+		},
+		{
+			"points" : 90,
+			"bonus" : 22
+		},
+		{
+			"points" : 70,
+			"bonus" : 27
+		}
+	]
+}
+{
+	"_id" : 9,
+	"name" : "bala",
+	"age" : 50,
+	"type" : 2,
+	"status" : "A",
+	"favorites" : {
+		"artist" : "Monet",
+		"food" : "potatoes"
+	},
+	"finished" : [
+		6,
+		15,
+		27
+	],
+	"badges" : [
+		"yellow",
+		"pink"
+	],
+	"points" : [
+		{
+			"points" : 81,
+			"bonus" : 8
+		},
+		{
+			"points" : 55,
+			"bonus" : 20
+		}
+	]
+}
+{
+	"_id" : 10,
+	"name" : "tiki",
+	"age" : 34,
+	"type" : 2,
+	"status" : "D",
+	"favorites" : {
+		"artist" : "Dali",
+		"food" : "pizza"
+	},
+	"finished" : [
+		5,
+		11,
+		89,
+		12
+	],
+	"badges" : [
+		"red",
+		"white"
+	],
+	"points" : [
+		{
+			"points" : 53,
+			"bonus" : 15
+		},
+		{
+			"points" : 51,
+			"bonus" : 15
+		},
+		{
+			"points" : 51,
+			"bonus" : 15
+		},
+		{
+			"points" : 51,
+			"bonus" : 15
+		},
+		{
+			"points" : 51,
+			"bonus" : 15
+		}
+	]
+}
+{
+	"_id" : 11,
+	"name" : "May",
+	"age" : 22,
+	"type" : 2,
+	"status" : "D",
+	"favorites" : {
+		"artist" : "Noguchi",
+		"food" : "hamburger"
+	},
+	"finished" : [
+		14,
+		6,
+		7,
+		19
+	],
+	"badges" : [
+		"orange",
+		"pink",
+		"yellow"
+	],
+	"points" : [
+		{
+			"points" : 71,
+			"bonus" : 20
+		},
+		{
+			"points" : 82,
+			"bonus" : 40
+		},
+		{
+			"points" : 71,
+			"bonus" : 20
+		}
+	]
+}
+{
+	"_id" : 12,
+	"name" : "punk",
+	"age" : 43,
+	"type" : 1,
+	"status" : "A",
+	"favorites" : {
+		"food" : "cookies",
+		"artist" : "riso"
+	},
+	"finished" : [
+		18,
+		12
+	],
+	"badges" : [
+		"black",
+		"blue"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 7
+		},
+		{
+			"points" : 67,
+			"bonus" : 20
+		}
+	]
+}
+{
+	"_id" : 13,
+	"name" : "dbc",
+	"age" : 56,
+	"type" : 1,
+	"status" : "P",
+	"favorites" : {
+		"food" : "pizza",
+		"artist" : "Picasso"
+	},
+	"finished" : [
+		18,
+		12
+	],
+	"badges" : [
+		"black",
+		"blue",
+		"red"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 7
+		}
+	]
+}
+{
+	"_id" : 14,
+	"name" : "dbe",
+	"age" : 67,
+	"type" : 1,
+	"status" : "P",
+	"favorites" : {
+		"food" : "pizza",
+		"artist" : "Picasso"
+	},
+	"finished" : [
+		18,
+		12
+	],
+	"badges" : [
+		"black",
+		"blue"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 17
+		},
+		{
+			"points" : 67,
+			"bonus" : 20
+		},
+		{
+			"points" : 90,
+			"bonus" : 13
+		},
+		{
+			"points" : 100,
+			"bonus" : 14
+		}
+	]
+}
+{
+	"_id" : 15,
+	"name" : "erika",
+	"age" : 27,
+	"type" : 2,
+	"status" : "A",
+	"favorites" : {
+		"food" : "chilaquiles",
+		"artist" : "Picasso"
+	},
+	"finished" : [
+		18,
+		12
+	],
+	"badges" : [
+		"blue",
+		"pink"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 7
+		}
+	]
+}
+{
+	"_id" : 16,
+	"name" : "paco",
+	"age" : 34,
+	"type" : 2,
+	"status" : "A",
+	"favorites" : {
+		"food" : "chocolate",
+		"artist" : "Desconocido"
+	},
+	"finished" : [
+		23,
+		32
+	],
+	"badges" : [
+		"orange",
+		"white"
+	],
+	"points" : [
+		{
+			"points" : 78,
+			"bonus" : 8
+		},
+		{
+			"points" : 57,
+			"bonus" : 7
+		}
+	]
+}
+{
+	"_id" : 17,
+	"name" : "karen",
+	"age" : 35,
+	"type" : 1,
+	"status" : "",
+	"favorites" : {
+		"artist" : "Picasso",
+		"food" : "pizza"
+	},
+	"finished" : [
+		18,
+		3,
+		21
+	],
+	"badges" : [
+		"pink",
+		"orange"
+	],
+	"points" : [
+		{
+			"points" : 96,
+			"bonus" : 89
+		},
+		{
+			"points" : 89,
+			"bonus" : 10
+		}
+	]
+}
