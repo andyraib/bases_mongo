@@ -1,0 +1,281 @@
+{
+	"_id" : ObjectId("58e3abde8828e4d5fb010af5"),
+	"name" : "ana",
+	"age" : 24,
+	"dir" : "zamora 89",
+	"colors" : [
+		"blue",
+		"red",
+		"yellow"
+	],
+	"accounts" : [
+		6,
+		7,
+		10
+	],
+	"pets" : [
+		{
+			"name" : "toby",
+			"especie" : "dog",
+			"raza" : "akita",
+			"age" : 2
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3affe8828e4d5fb010af6"),
+	"name" : "mario",
+	"age" : 24,
+	"dir" : "av sonora 89",
+	"colors" : [
+		"black",
+		"pink",
+		"blue"
+	],
+	"accounts" : [
+		10,
+		8,
+		9
+	],
+	"pets" : [
+		{
+			"name" : "chocolate",
+			"especie" : "dog",
+			"raza" : "dalmata",
+			"age" : 5
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b0b88828e4d5fb010af7"),
+	"name" : "priscila",
+	"age" : 24,
+	"dir" : "tula 67",
+	"colors" : [
+		"black",
+		"brown",
+		"white"
+	],
+	"accounts" : [
+		10,
+		7,
+		3,
+		2
+	],
+	"pets" : [
+		{
+			"name" : "yuguimi",
+			"especie" : "dog",
+			"raza" : "bulldog",
+			"age" : 1
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b2788bb2a20b723f85f1"),
+	"name" : "victor",
+	"age" : 32,
+	"dir" : "zaragoza  7",
+	"colors" : [
+		"pink",
+		"purpure",
+		"red"
+	],
+	"accounts" : [
+		5,
+		4,
+		9,
+		1
+	],
+	"pets" : [
+		{
+			"name" : "spock",
+			"especie" : "dog",
+			"raza" : "boxer",
+			"age" : 4
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b54b8bb2a20b723f85f4"),
+	"name" : "miguel",
+	"age" : 28,
+	"dir" : "muyuguarda 78",
+	"colors" : [
+		"black",
+		"red",
+		"pink"
+	],
+	"accounts" : [
+		10,
+		44,
+		89,
+		55,
+		1
+	],
+	"pets" : [
+		{
+			"name" : "toko",
+			"especie" : "dog",
+			"raza" : "alaska",
+			"age" : 3
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b57f8bb2a20b723f85f5"),
+	"name" : "may",
+	"age" : 22,
+	"dir" : "oceania 78",
+	"colors" : [
+		"black",
+		"red",
+		"orange"
+	],
+	"accounts" : [
+		77,
+		56,
+		9,
+		2
+	],
+	"pets" : [
+		{
+			"name" : "botas",
+			"especie" : "cat",
+			"raza" : "persa",
+			"age" : 2
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b73e8bb2a20b723f85f6"),
+	"name" : "carlos",
+	"age" : 34,
+	"dir" : "portales 101",
+	"colors" : [
+		"white",
+		"green",
+		"purpure"
+	],
+	"accounts" : [
+		10,
+		9,
+		8
+	],
+	"pets" : [
+		{
+			"name" : "max",
+			"especie" : "dog",
+			"raza" : "beagle",
+			"age" : 1
+		},
+		{
+			"name" : "liki",
+			"especie" : "cat",
+			"raza" : "burnes",
+			"age" : 1
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b7c28bb2a20b723f85f7"),
+	"name" : "erika",
+	"age" : 24,
+	"dir" : "la noria 18",
+	"colors" : [
+		"pink",
+		"red",
+		"green"
+	],
+	"accounts" : [
+		1,
+		2,
+		3
+	],
+	"pets" : [
+		{
+			"name" : "bigotes",
+			"especie" : "dog",
+			"raza" : "cocker",
+			"age" : 1
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b88d8bb2a20b723f85f8"),
+	"name" : "perseo",
+	"age" : 27,
+	"dir" : "cafetales 1",
+	"colors" : [
+		"yellow",
+		"white",
+		"orange"
+	],
+	"accounts" : [
+		7,
+		8,
+		6
+	],
+	"pets" : [
+		{
+			"name" : "ozo",
+			"especie" : "dog",
+			"raza" : "chow chow",
+			"age" : 5
+		},
+		{
+			"name" : "toko",
+			"especie" : "dog",
+			"raza" : "golden",
+			"age" : 5
+		}
+	]
+}
+{
+	"_id" : ObjectId("58e3b9468bb2a20b723f85f9"),
+	"name" : "iris",
+	"age" : 25,
+	"dir" : "huichapan 78",
+	"colors" : [
+		"green",
+		"black",
+		"blue"
+	],
+	"accounts" : [
+		9,
+		5,
+		10
+	],
+	"pets" : [
+		{
+			"name" : "blublu",
+			"especie" : "cat",
+			"raza" : "bengala",
+			"age" : 10
+		}
+	]
+}
+{
+	"_id" : ObjectId("58ebe79608cc57e6e7678771"),
+	"name" : "testo",
+	"age" : 12,
+	"dir" : "prueba",
+	"colors" : [
+		"blue",
+		"red",
+		"yellow"
+	],
+	"accounsts" : [
+		4,
+		6,
+		5
+	],
+	"pets" : [
+		{
+			"name" : 4,
+			"especie" : "dog",
+			"raza" : "cocker",
+			"age" : 4
+		}
+	]
+}
